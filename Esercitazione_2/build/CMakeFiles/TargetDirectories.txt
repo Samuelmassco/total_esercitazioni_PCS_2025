@@ -1,0 +1,3 @@
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_2/build/CMakeFiles/MeanValue.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_2/build/CMakeFiles/edit_cache.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_2/build/CMakeFiles/rebuild_cache.dir
