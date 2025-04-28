@@ -1,0 +1,7 @@
+/home/appuser/Data/esercitazione__PCS__2025__github/1803/debug/CMakeFiles/rational.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/1803/debug/CMakeFiles/stack.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/1803/debug/CMakeFiles/stack_template.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/1803/debug/CMakeFiles/stack_template_better.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/1803/debug/CMakeFiles/main.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/1803/debug/CMakeFiles/edit_cache.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/1803/debug/CMakeFiles/rebuild_cache.dir

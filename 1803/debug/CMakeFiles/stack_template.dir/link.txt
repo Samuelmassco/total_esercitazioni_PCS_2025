@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow CMakeFiles/stack_template.dir/stack_template.cpp.o -o stack_template 

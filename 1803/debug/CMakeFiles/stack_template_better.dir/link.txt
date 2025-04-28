@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow CMakeFiles/stack_template_better.dir/stack_template_better.cpp.o -o stack_template_better 
