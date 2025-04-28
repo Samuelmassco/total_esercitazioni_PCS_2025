@@ -1,0 +1,3 @@
+/home/appuser/Data/esercitazione__PCS__2025__github/Exercise1__eigen/debug/CMakeFiles/SingularMatrix.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Exercise1__eigen/debug/CMakeFiles/edit_cache.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Exercise1__eigen/debug/CMakeFiles/rebuild_cache.dir
