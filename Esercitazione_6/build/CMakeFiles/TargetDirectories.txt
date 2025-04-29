@@ -1,0 +1,8 @@
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_6/build/CMakeFiles/Sorting2.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_6/build/CMakeFiles/Sorting2_TEST.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_6/build/CMakeFiles/edit_cache.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_6/build/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_6/build/src/CMakeFiles/edit_cache.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_6/build/src/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_6/build/src_test/CMakeFiles/edit_cache.dir
+/home/appuser/Data/esercitazione__PCS__2025__github/Esercitazione_6/build/src_test/CMakeFiles/rebuild_cache.dir
