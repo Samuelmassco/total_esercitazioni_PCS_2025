@@ -1,0 +1,5 @@
+/home/appuser/Data/total_esercitazioni_PCS_2025/esercitazione_4__02__04__2025/Exercise1/build/CMakeFiles/DotProduct.dir
+/home/appuser/Data/total_esercitazioni_PCS_2025/esercitazione_4__02__04__2025/Exercise1/build/CMakeFiles/edit_cache.dir
+/home/appuser/Data/total_esercitazioni_PCS_2025/esercitazione_4__02__04__2025/Exercise1/build/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/total_esercitazioni_PCS_2025/esercitazione_4__02__04__2025/Exercise1/build/src/CMakeFiles/edit_cache.dir
+/home/appuser/Data/total_esercitazioni_PCS_2025/esercitazione_4__02__04__2025/Exercise1/build/src/CMakeFiles/rebuild_cache.dir

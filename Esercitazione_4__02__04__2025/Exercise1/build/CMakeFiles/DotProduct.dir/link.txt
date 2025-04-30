@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DotProduct.dir/main.cpp.o CMakeFiles/DotProduct.dir/src/Utils.cpp.o -o DotProduct  /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgmock.a /usr/lib/x86_64-linux-gnu/libgmock_main.a /usr/lib/x86_64-linux-gnu/libgmock.a /usr/lib/x86_64-linux-gnu/libgtest.a 
